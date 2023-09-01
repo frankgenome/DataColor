@@ -1,4 +1,4 @@
-DataColor: A tool to reveal the relationships of biological data using distinct colors
+DataColor: Unveiling Biological Data Relationships through Distinctive Color Mapping
 =====
 ![](https://github.com/frankgenome/DataColor/raw/master/image/index.png)
 
