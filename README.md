@@ -1,9 +1,18 @@
 DataColor: A tool to reveal the relationships of biological data using distinct colors
 =====
 ![](https://github.com/frankgenome/DataColor/raw/master/image/index.png)
+
+Download
+------
+Github download link
+https://github.com/frankgenome/DataColor/releases
+Link to manual and test data
+https://github.com/frankgenome/DataColor
+
 Overview
 ------
-With the rapid advancement of high-throughput histology technologies and the accompanying rapid increase in big biological data, the need for multidimensional and big data visualisation is growing. Technological high speed innovation researchers have developed Various bioinformatics software programs, pipelines, and packages to plot heat maps, but also require users to have a basic knowledge of various programming languages. Increasingly, users need comprehensive, fast, easy, and intuitive retrieval of the information contained in big data. Easier visualisation of large histological data to solve biological problems is extremely important. To this end, we have designed the heatmap visualisation software DataColor. DataColor is designed to allow users to easily and quickly select parameters and debug and to intuitively select the appropriate heatmap. It also integrates a large number of general-purpose heatmaps and develops innovative heatmaps in-house, such as 3D heatmaps, 3D clustered heatmaps and isometric heatmaps. DataColor involves both 2D and 3D drawing methods and has three types of functions for drawing heatmaps, such as basic class heatmaps, clustered heatmaps and higher heatmaps.
+With the rapid advancement of high-throughput histology technologies, the need for multidimensional and big data visualization is increasing along with the rapid increase of big biological data. Technological high speed innovation researchers have developed various bioinformatics software, software packages and other tools to draw visualization graphs, but also require users to have a basic knowledge of various programming languages. More and more users need comprehensive, fast, easy and intuitive retrieval of the information contained in big data. Easier visualization of large histological data to solve biological problems is extremely important.
+For this purpose, we designed the heat map visualization software DataColor. the tool provides comprehensive adjustment parameters and integrates a large number of general-purpose base and cluster heatmap, as well as isoheight plotter, 3D plotters, treemap, calendar plotter, bubble plotter, network plotter, geographic map, wordcloud plotter, anatomogram plotter, etc., and allows comparison on the same platform of different 21 results under different drawing tools on the same platform.
 
 Core programs
 --------
