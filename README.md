@@ -6,6 +6,7 @@ Download
 ------
 Github download link
 https://github.com/frankgenome/DataColor/releases
+
 Link to manual and test data
 https://github.com/frankgenome/DataColor
 
