@@ -4,7 +4,7 @@ DataColor: Unveiling Biological Data Relationships through Distinctive Color Map
 
 Download
 ------
-Github download link
+Github download software link
 https://github.com/frankgenome/DataColor/releases
 
 Link to manual and test data
