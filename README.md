@@ -1,6 +1,6 @@
 DataColor: Unveiling Biological Data Relationships through Distinctive Color Mapping
 =====
-![](https://github.com/frankgenome/DataColor/raw/master/image/index.png)
+![](https://github.com/frankgenome/DataColor/raw/master/image/index1.png)
 
 Download
 ------
